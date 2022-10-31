@@ -1,3 +1,5 @@
+<figure><embed src="https://wakatime.com/share/@lucasbbs/69e80e51-a825-457a-9d15-042c863cf2e5.svg"></embed></figure>
+
 |Project|Time Spent in the current project|
 |-------------------------|--------------------------------------------------------------------------------------------------------|
 |Geekster Teacher Frontend|[![wakatime](https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/273ef898-28ea-4fa3-b790-960ba0b4d963.svg)](https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/273ef898-28ea-4fa3-b790-960ba0b4d963)|
